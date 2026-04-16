@@ -112,4 +112,4 @@ if __name__ == "__main__":
     main()
 
 
-#  A command-line tool that parses system log files, categorizes entries by severity, flags errors, and generates summaries. Built with Python OOP.
+
